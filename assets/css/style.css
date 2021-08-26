@@ -218,7 +218,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("/assets/img/NvL.gif") top center;
+  background: url("https://github.com/shaheerkp/portfolio/blob/main/assets/img/NvL.gif?raw=true") top center;
   background-size: cover;
 }
 
